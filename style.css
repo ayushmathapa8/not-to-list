@@ -1,0 +1,13 @@
+body {
+  min-height: 100vh;
+  background: linear-gradient(to right, yellow, green);
+}
+
+.task-table {
+  background: rgba(63, 63, 63, 0.299);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
+
+  /* backdrop-filter: blur(2px); */
+}
